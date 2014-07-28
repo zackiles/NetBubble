@@ -1,0 +1,46 @@
+
+body {
+
+}
+		.navbar-inverse{
+			background-color: #A3A3A;
+			color: #ADADAD;
+		}
+   .name{
+      color:rgb(106,182,200);
+      font-weight:bold;
+      cursor:pointer;
+    }
+
+    .places{
+    height:300px;
+    width: 100%;
+		overflow-x: hidden;
+    overflow-y: scroll;
+    }
+
+    .places li{
+      list-style:none;
+    }
+
+    #showHide{display:block; margin:2em 0;}
+
+.phones {
+  list-style: none;
+}
+
+.jumbotron {
+
+}
+
+.stat-box {
+
+border: 1px solid #F0F0F0;
+		display: block;
+	  width: 80%;
+    height: 100%;
+    margin: 20px;
+    position: relative;
+}
+
+

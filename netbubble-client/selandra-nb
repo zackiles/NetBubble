@@ -1,0 +1,37 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=2
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=selandra-nb
+base_path=/home/zackiles/workspace/selandra-nb
+description=
+file_patterns=*.js;*.json;
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=1779;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fpublic%2Fviews%2Fhome.html;0;2
+FILE_NAME_1=1243;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fpublic%2Fviews%2Findex.html;0;2
+FILE_NAME_2=148;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fpublic%2Fjs%2Fapp.js;0;2
+FILE_NAME_3=4563;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fpublic%2Fjs%2Fcontrollers%2FBannerSearchCtrl.js;0;2
+FILE_NAME_4=8;CSS;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fpublic%2Fcss%2Fstyle.css;0;2
+FILE_NAME_5=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fzackiles%2Fworkspace%2Fselandra-nb%2Fserver.js;0;2
+
+[build-menu]
+EX_00_LB=_Execute
+EX_00_CM=node %p/server.js
+EX_00_WD=

@@ -3,3 +3,6 @@
 bubbler/data
 build
 bubbler/system
+node_modules
+bower_compenants
+libs
