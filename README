@@ -1,0 +1,21 @@
+The database can be search like so:
+
+Reports
+-> by Date
+-> by Command Filename (eg. "nmap_fast_scan.cmd")
+-> by Target ip/ip-range (eg "192.168.0.1 OR 192.168.0.0/100"
+-> by Report ID (a unique hash for every processed report)
+-> by Length of Scan Time (eg "length > 2 hours")
+-> by Scanning Application Name (eg "Nmap 1.2")
+
+Hosts
+-> By Date Added
+-> By Date Last Seen
+-> By IP
+-> By Hostname
+-> By Ports Open
+-> By Services Enabled 
+-> By City
+-> By Country
+-> By Metadata Token (any string tokens contained in responses)
+-> By NetRange (eg "between 192.168.0.1 and 192.168.0.100")

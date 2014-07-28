@@ -1,0 +1,1 @@
+-PS -sSV -p 80,443,8080,22,23 -T5 --open -n -r --max-rate 10000 -d --randomize-hosts --version-intensity 0 --script=whois,banner,ip-geolocation-maxmind,http-title,http-headers --script-args "maxmind_db=/home/zackiles/net-bubble/bubbler/data/GeoLiteCity.dat,whodb=nocache,http.useragent=Mozilla/5.0(compatible; netbubble.selandra.com NetBubble Research Drone)"

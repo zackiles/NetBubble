@@ -1,0 +1,5 @@
+*.py[co]
+*.bak
+bubbler/data
+build
+bubbler/system
